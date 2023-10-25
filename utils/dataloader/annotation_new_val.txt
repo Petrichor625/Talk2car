@@ -1,0 +1,338 @@
+0 turn left behind the silver car
+4 get close beside the parked white car.
+5 pull up in front of that billboard
+10 follow the black car that is on your right
+12 park behind the white pickup truck on the right
+16 park behind the white truck on the right.
+18 turn after that truck on the left side of the road.
+19 pull over next to that man
+20 park right in front of that black suv.
+22 take this parking spot after the car has left.
+24 park behind this red car
+28 turn left
+30 pull over the guy standing closest to the curb, next to that car in front of us.
+32 turn left after that oncoming car has passed.
+35 park in the black car's spot.
+39 stop.
+40 turn left behind the red car in front of us.
+41 turn left.
+42 park in the black car's spot.
+44 make a left where that red car is turning.
+46 find a parking spot near that bicycle rack
+47 make a right turn in front of the bike rack.
+48 park near the guy on the left corner.
+49 make a left turn once that car passes.
+51 park where that car is pulling out.
+54 park in front of that silver car.
+55 pull up behind the guy wearing a white shirt.
+58 stop in front of that white bus.
+60 park across from the bikes
+65 turn left after the approaching car passes by.
+66 turn left after the second car passes by.
+67 park behind the bus on the right.
+69 turn to the street on the right where the car just came from.
+70 follow the bus.
+71 stop next to this parked bus
+72 drive in the right lane and get behind that bus up ahead.
+75 get in to the right lane.
+76 switch to the right lane
+77 stop next to the construction worker on the right.
+78 turn and stop at my bike!
+79 drop me off next to that bike.
+81 switch lanes.
+82 pull up alongside the curb here, parallel to that truck.
+83 park near to that orange barrier.
+85 move into the right hand lane
+87 turn left where that lady is walking.
+88 stop in front of the man in the yellow hat
+89 go to the right lane
+90 turn left before the bikes
+91 continue straight passing the brown box on the left.
+92 wait for the construction worker to clear the road.
+93 stay stopped.
+94 stay stopped.
+102 stay stopped
+103 stay stopped.
+104 stay stopped.
+105 turn left slightly and continue.
+107 drive straight passing the bicycle on the left.
+108 drive straight passing the pedestrian on the left.
+110 continue driving straight in the lane.
+111 stop, there is a barrier on the road.
+112 let us continue.
+113 do not proceed, stop
+117 stop close to this bike.
+120 make a left turn after the construction worker
+121 pull over behind that black car at the end of that row of parked cars
+122 turn left here, park behind the white van, left of the black car.
+123 turn left after the orange cone
+124 turn right
+126 turn left away from tha guy!
+127 park before the first car on the left for 10 minutes.
+128 stop near the man in the truck
+129 stop alongside that truck
+130 park next to the first barrier on the right.
+131 pull alongside the first barrier on the right
+132 park next to the second barrier on the right.
+134 turn into the garage on the right side of that forklift truck.
+135 stop right behind the truck
+136 stop right behind this truck i need to get out here.
+137 park after the first concrete barrier
+138 pull over and stop behind the forklift
+140 turn left just after the black suv
+141 park near the closest concrete barrier
+142 take a left turn after that parked vehicle at the end of the road
+144 park on the right next to the motorcycle
+147 stop near the bike
+148 find parking near the truck
+153 let me get out next to my bike
+155 park next to the white van on the left side of the road.
+156 park next to the black truck on the left.
+160 park in the space next to that black pickup truck
+164 turn left after we pass that last cone
+165 pull over near that first trailer on the right.
+166 find somewhere to park near the black suv
+171 park behind the suv on the right.
+173 merge left.
+174 merge right.
+175 turn right at the intersection just beyond the barrier on the sidewalk.
+176 pull up behind the vehicle in the lane to the left.
+177 stop next to these garbage cans
+178 turn left before the trash cans
+179 pull over next to that green garbage can.
+181 let me out near that traffic cone
+182 just stop before that garbage can.
+186 park on the grass in front of the traffic cone
+188 turn into the driveway before the blue bin.
+190 stop in front of the gate after that blue trash bin
+191 pull up in front of that gate left of the green trash bin.
+192 park near the green trash can
+193 turn left before the blue trash can
+195 park next to the left garbage bin
+196 drive slowly past that garbage bin
+197 park next to that garbage can
+198 pull over next to that garbage can
+199 park next to that garbage can
+201 follow the dark car in front of us
+203 follow car in front
+205 turn left before this green garbage can
+206 pull in at the gate, after the set of garbage cans.
+207 follow this car in front of us
+209 stop at the green trash can
+221 park next to this car!
+222 park near that white car
+225 stop the car near this motorcycle.
+226 park the car by this bicycle.
+227 park on the right by that green bin
+231 pull over by that green trashcan on the right.
+232 drop me off near the bicycle.
+238 take the left turn ahead where the bike is.
+241 stop the car after the yellow lines by the man.
+243 pull over near that person on the the sidewalk
+245 pick up woman on your left
+246 keep in line with vehicle in front
+247 turn right.
+248 turn left down the street just before that man.
+250 get in the lane next to this truck in front
+262 park behind that black vehicle on the right.
+263 pull up behind that truck in the right lane
+267 turn left down the street near that pedestrian.
+268 then turn left when it is safe
+269 pull up behind this yellow truck
+270 move over and park behind the suv on the right
+271 keep going straight and follow the red van in front of us
+279 park as close to that van as possible.
+281 park the car next to the barrier near the trucks.
+282 park parallel to the yellow trailer.
+289 pull into where that box truck is
+291 turn left
+293 park in front of this white car
+294 pull up and stop next to this white car
+295 turn right into the driveway after this white car
+297 turn right up where that man is
+299 pull up next to that person on the right.
+300 park near that red truck
+301 park in front of that red truck
+304 park near that trailer
+305 park next to that trailer
+306 park behind that trailer
+307 pull up alongside that trailer
+314 turn left after
+319 park in front of that red truck on the left.
+320 park behind the first car on the right.
+322 change lanes to get behind that white car.
+324 pull up behind the car in the left lane
+325 get ahead of this taxi
+326 park behind the blue car
+328 get into the next lane behind the white car
+329 pull up to the left of this white car
+331 park behind the car on the right
+332 stop behind the white car on the left
+335 stop next to that pedestrian on the right
+339 slow down next to the person on the right.
+341 move closer this car in front
+342 let us turn left after the pedestrian
+343 park the car where next to that bicycle.
+345 pull over next to that pedestrian
+347 stop near the man wearing the yellow shirt.
+348 park near the man at the stop light.
+350 turn right in front of the man wearing yellow.
+351 turn right here.
+355 turn left after the silver sedan goes
+360 slow down as we pass that bike.
+364 turn right just before where that man is.
+372 that is who i need to pick up, go straight on towards that man.
+373 find a place to park near that yellow suv
+374 there is a place! park next to that black car
+379 stop near that person
+384 park in reverse by the yellow car
+385 park near the black car
+388 once that pedestrian has crossed the road we can turn left
+389 there is a van straight in front of us, go around it.
+390 wait for the moped to continue before we turn left
+393 turn left after that person crosses the street
+397 pull over and park behind this car.
+401 follow this bus to it is next stop
+414 that bus has stopped, drive around it and continue straight
+415 pull up alongside the curb. we need to pick up the pedestrian on the right that is closest to us.
+416 slow down a bit, that bus might pull out into traffic.
+421 turn where available and park behind the car across the road
+423 there is a man wearing shorts on the left side. pick up him
+425 drop me off near the man wearing a dark shirt.
+432 make a left turn here.
+436 pull up next to the guy on the left, let us pick him up
+442 stop if pedestrian gets in front of vehicle.
+444 park next to the guy wearing the helmet.
+445 slow down.
+447 stay in the right lane, so not to get to close to that guy.
+449 pull in behind the blue van on the left.
+450 stop on the left behind the van.
+452 go wide around the man loading the van.
+485 pause near that man with his bike.
+494 drop me off near the bike.
+497 pull over near my bike.
+499 please change lanes and get behind the blue car.
+500 change into the right lane.
+505 turn left and stop next to the biker.
+506 follow that van
+508 turn left here, before this motorcycle
+516 follow the yellow car that is in the left lane.
+518 follow behind the silver van.
+519 follow the couple that just passed us on the left.
+520 go left and follow the black car
+521 turn around before that car in front of us leaves 
+524 stay behind that car in front of us
+525 stay behind that car in front of us 
+526 stay behind that car in front of us
+527 switch lanes and follow that gray car two lanes to the left
+528 park near the group of vehicles.
+529 park before the stationary truck on our right.
+534 pull over and park near that black car.
+541 park next to the black car on the left
+548 stop next to that man.
+556 turn right where the man is standing.
+557 switch to the left lane in order to avoid the object obstructing the current lane
+558 switch to the left lane in order to avoid the object obstructing the current lane
+559 switch to the left lane in order to avoid the object obstructing the current lane
+560 switch to the left lane in order to follow the suv
+562 stop to pick up that person.
+569 slow down to let the bicyclist pass.
+572 slow down and let the bike pass.
+575 pull over up where that man is. 
+579 let the biker cross the street
+582 pull over next to th man
+584 stop near that person.
+587 stop next to the person in blue shirt.
+588 park behind this white car
+591 follow that car.
+593 please turn left and stop near the barrier
+595 turn around and get behind this white truck.
+598 park in front of that truck on the right side of the road.
+599 park behind the red car.
+600 follow the car driving in front of us.
+602 slow down to check for pedestrians.
+603 pull over near that pedestrian on the right
+605 park behind this red sedan
+609 park next to the black car on the left in the parking lot
+611 follow that car
+613 watch for the pedestrian when you pass. 
+623 let the pedestrian on the left cross and then proceed.
+624 drive in front of the cyclist 
+625 slowly continue straight as there is a person in our way.
+628 get closer to the car.
+630 park behind the yellow car.
+631 stop next to the second car parked on the left. 
+633 do not pull out until this car passes
+636 drop me off before that yellow vehicle
+637 get a bit closer to the black car in front
+639 slow down and let that gold car pass in front of us
+640 park in the space in front of that silver car
+641 stop and park near that bike on the sidewalk
+644 decrease the distance between my car and the silver car 
+645 follow this car.
+647 stop next to this bike
+654 park the car next to the silver car.
+656 evade the black car on our left.
+657 drop me near the person who is wearing red
+666 stop next the man in the red shirt
+667 stop near the bicycle at the side of the road. 
+669 pull over behind them those people near the car
+672 pull up near the pedestrian ahead of us.
+674 park near that woman
+675 turn right
+676 turn left 
+677 turn a left.
+678 pull over to the pedestrian on the left
+679 turn right beside that grey car 
+680 quickly change lanes
+684 get in the lane behind the left car
+688 pull closer to the car in front of us
+691 get behind the white car
+695 turn right.
+696 park behind this red car
+700 drop me off behind the red car
+701 slow down until that guy finishes crossing the street.
+704 park in this spot behind this red car on the right.
+705 park behind the black car on our right
+710 pass the silver van on the right
+711 stay in the left lane 
+713 take a left at the intersection. 
+717 park behind the bus. 
+720 stop next to the person near the tree
+725 follow the bus 
+732 follow the bus to the right. 
+735 follow the black car to the left. 
+740 stop next to that person!
+744 take a left here, before that black car up ahead. 
+745 stop next to that lady walking on the sidewalk on the left. 
+746 stop near that person
+751 proceed slowly
+755 pull up by the jeep on the right
+758 park before that red car.
+759 slow down near that person. 
+760 slow down for the person on the left
+761 follow that vehicle until it stops.
+765 park near the black car on your left
+769 stop in front of the sidewalk and let that guy cross
+770 follow this car in front
+780 switch lanes to the right after passing that last car.
+781 please park near the red car.
+783 follow the vehicle ahead.
+784 change lanes to follow the white van ahead on the right.
+785 pull in behind the car just to our right.
+786 slow down where the car ahead is.
+798 turn left after the stripped traffic barrel.
+811 turn left.
+813 stop next to that person.
+814 park next to that person.
+816 stop next to that car.
+829 turn left after that pedestrian crosses
+830 slow down.
+846 let that truck pass
+858 stop next to the man coming out of his vehicle.
+865 pull up next to the silver car on the left
+867 park before that red car
+868 this is my friend, stop near him.
+870 park near that man
+878 turn right after the first vehicle on the right.
+881 slow and allow truck to pass.
